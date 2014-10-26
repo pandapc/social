@@ -6,6 +6,6 @@
 
 <body>
 	<h1>Social Network</h1>
-	<p>What  is that?</p>
+	<p>Under Construction</p>
 </body>
 </html>
